@@ -3,7 +3,6 @@
 ### Hi, my name is Jae Hwang! 🇰🇷🇺🇸
 
 I am a full-stack software engineer with a passion for creating and improving. I love coffee ☕️, cats 🐱, and corny jokes 🌽. 
-
 ***
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -50,7 +49,6 @@ Check out my projects:
   [Live Link](https://heir-bnb-airbnbclone.herokuapp.com/)
   
 </details>
-
 
 ***
 
