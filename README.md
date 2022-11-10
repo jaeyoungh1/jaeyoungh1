@@ -2,9 +2,12 @@
 
 ### Hi, my name is Jae Hwang! 🇰🇷🇺🇸
 
-I am a full-stack software engineer with a passion for creating and improving. I love coffee ☕️, cats 🐱, and corny jokes 🌽. 
+I am a full-stack software engineer with a passion for creating and improving. I love coffee ☕️, cats 🐱, and corny jokes 🌽.
+UC Berkeley grad, BA in Molecular Cell Biology with an emphasis in Immunology. 
+
 ***
 
+### Tools
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
@@ -21,7 +24,7 @@ I am a full-stack software engineer with a passion for creating and improving. I
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ***
-Check out my projects:
+### Check out my projects:
 <details><summary>Drink Cawfee</summary><br/>
   A Coffee Curation Website based on Drink Trade
   
