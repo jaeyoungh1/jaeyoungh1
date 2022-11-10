@@ -16,5 +16,3 @@ I am a full-stack software engineer with a passion for creating and improving. I
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaeyoungh1&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyoungh1)](https://github.com/jaeyoungh1/github-readme-stats)
