@@ -1,5 +1,10 @@
+![Jae's Stuff](https://user-images.githubusercontent.com/103082046/200971945-fb2ae3a4-58d1-4cfa-90bb-85cb2d1e53b2.gif)
+
 ### Hi, my name is Jae Hwang! 🇰🇷🇺🇸
+
 I am a full-stack software engineer with a passion for creating and improving. I love coffee ☕️, cats 🐱, and corny jokes 🌽. 
+
+***
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -16,4 +21,38 @@ I am a full-stack software engineer with a passion for creating and improving. I
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+***
+Check out my projects:
+<details><summary>Drink Cawfee</summary><br/>
+  A Coffee Curation Website based on Drink Trade
+  
+  ![Screen Shot 2022-11-09 at 10 40 01 AM](https://user-images.githubusercontent.com/103082046/200975140-1bc513d0-3eb8-4b71-bdc1-919b8735d081.png)
+  
+  [Github](https://github.com/jaeyoungh1/drink_cawfee)
+  [Live Link](https://drink-cawfee.herokuapp.com)
+  
+</details>
+<details><summary>Squeal</summary><br/>
+  A group project Yelp clone
+  
+  ![Screen Shot 2022-11-09 at 10 41 22 AM](https://user-images.githubusercontent.com/103082046/200975164-5b5be96e-951d-431a-bd3f-5390fdfcd1c0.png)
+  
+  [Github](https://github.com/amanduhkv/Squeal)
+  [Live Link](https://squeal-yelp.herokuapp.com/)
+  
+</details>
+<details><summary>Heir BnB</summary><br/>
+  A homestay/vacation rental platform based on AirBnB
+  
+  ![Screen Shot 2022-11-09 at 10 48 03 AM](https://user-images.githubusercontent.com/103082046/200975180-e7cbd3ab-9cbf-4890-b5cf-a3f5128b9752.png)
+  
+  [Github](https://github.com/jaeyoungh1/heir-bnb)
+  [Live Link](https://heir-bnb-airbnbclone.herokuapp.com/)
+  
+</details>
+
+
+***
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaeyoungh1&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
