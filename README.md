@@ -3,7 +3,7 @@
 ### Hi, my name is Jae Hwang! 🇰🇷🇺🇸
 
 I am a full-stack software engineer with a passion for creating and improving. I love coffee ☕️, cats 🐱, and corny jokes 🌽.
-UC Berkeley grad, BA in Molecular Cell Biology with an emphasis in Immunology. 
+UC Berkeley grad, BA in Molecular Cell Biology with an emphasis in Immunology and Infectious Diseases. 
 
 ***
 
