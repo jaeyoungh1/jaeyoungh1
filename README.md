@@ -57,5 +57,4 @@ UC Berkeley grad, BA in Molecular Cell Biology with an emphasis in Immunology an
 
 ***
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaeyoungh1&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
