@@ -1,6 +1,6 @@
 ![Jae's Stuff](https://user-images.githubusercontent.com/103082046/200971945-fb2ae3a4-58d1-4cfa-90bb-85cb2d1e53b2.gif)
 
-### Hi, my name is Jae Hwang! 🇰🇷🇺🇸
+### Hi, my name is Jae Hwang!
 
 I am a full-stack software engineer with a passion for creating and improving. I love coffee ☕️, cats 🐱, and corny jokes 🌽.
 UC Berkeley grad, BA in Molecular Cell Biology with an emphasis in Immunology and Infectious Diseases. 
