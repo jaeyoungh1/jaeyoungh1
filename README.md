@@ -25,36 +25,4 @@ UC Berkeley grad, BA in Molecular Cell Biology with an emphasis in Immunology an
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-***
-### Check out my projects:
-<details><summary>Drink Cawfee</summary><br/>
-  A Coffee Curation Website based on Drink Trade
-  
-  ![Screen Shot 2022-11-09 at 10 40 01 AM](https://user-images.githubusercontent.com/103082046/200975140-1bc513d0-3eb8-4b71-bdc1-919b8735d081.png)
-  
-  [Github](https://github.com/jaeyoungh1/drink_cawfee)
-  [Live Link](https://drink-cawfee.herokuapp.com)
-  
-</details>
-<details><summary>Squeal</summary><br/>
-  A group project Yelp clone
-  
-  ![Screen Shot 2022-11-09 at 10 41 22 AM](https://user-images.githubusercontent.com/103082046/200975164-5b5be96e-951d-431a-bd3f-5390fdfcd1c0.png)
-  
-  [Github](https://github.com/amanduhkv/Squeal)
-  [Live Link](https://squeal-yelp.herokuapp.com/)
-  
-</details>
-<details><summary>Heir BnB</summary><br/>
-  A homestay/vacation rental platform based on AirBnB
-  
-  ![Screen Shot 2022-11-09 at 10 48 03 AM](https://user-images.githubusercontent.com/103082046/200975180-e7cbd3ab-9cbf-4890-b5cf-a3f5128b9752.png)
-  
-  [Github](https://github.com/jaeyoungh1/heir-bnb)
-  [Live Link](https://heir-bnb-airbnbclone.herokuapp.com/)
-  
-</details>
-
-***
-
 
